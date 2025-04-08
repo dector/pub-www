@@ -1,8 +1,12 @@
 ---
-title: '{ hello: world }'
-public: yes
-tags:
-  - meta
+title: hello :: world
+createdAt: 2024-11-16 14:31
+revision: 1
+public: true
+tags: [
+  meta
+  area:blog
+]
 ---
 
 First, in the last few years, I started writing many personal notes in digital format.
@@ -20,4 +24,3 @@ tiny compared to tremendous sources of noise that are contributing to the Intern
 So I've decided to make one more attempt at public writing - this time in the form of small sketches.
 
 D.
-

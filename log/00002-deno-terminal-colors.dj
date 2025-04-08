@@ -1,0 +1,21 @@
+---
+title: Printing with colors in Deno
+createdAt: 2024-11-16 15:59
+revision: 1
+public: true
+tags: [
+  lang:ts
+  lang:js
+  env:deno
+  area:programming
+]
+---
+
+It's [surprisingly easy](https://docs.deno.com/examples/color-logging/).
+
+```ts
+console.log("%cOK", "color: green");
+console.log(`%c${fileName}`, "color: orange");
+```
+
+D.
